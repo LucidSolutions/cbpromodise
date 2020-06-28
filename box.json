@@ -1,0 +1,45 @@
+{
+    "name":"Responsive - Promodise Content Box Theme",
+    "version":"1.0",
+    "author":"Lucid Outsourcing Solutions",
+    "location":"https://github.com/LucidSolutions/cbpromodise/archive/master.zip",
+    "homepage":"https://github.com/LucidSolutions/cbpromodise/",
+    "documentation":"",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/LucidSolutions/cbpromodise/"
+    },
+    "bugs":"https://github.com/LucidSolutions/cbpromodise/issues",
+    "slug":"cbpromodise",
+    "shortDescription":"Responsive - Promodise Content Box Theme",
+    "description":"Responsive - Promodise Content Box Theme",
+    "instructions":"",
+    "changelog":"",
+    "type":"contentbox-themes",
+    "license":[
+        {
+            "type":"Apache2",
+            "URL":"http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "contributors":[
+        
+    ],
+    "dependencies":{
+        
+    },
+    "devDependencies":{
+        
+    },
+    "installPaths":{
+        
+    },
+    "scripts":{
+        
+    },
+    "ignore":[
+         "**/.*",
+        "build.xml",
+        "tests"
+    ]
+}
