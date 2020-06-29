@@ -23,19 +23,15 @@
         }
     ],
     "contributors":[
-        
+        "Lucid Solutions <info@lucidsolutions.in>",
     ],
-    "dependencies":{
-        
+    "dependencies":{    
     },
-    "devDependencies":{
-        
+    "devDependencies":{ 
     },
     "installPaths":{
-        
     },
     "scripts":{
-        
     },
     "ignore":[
          "**/.*",

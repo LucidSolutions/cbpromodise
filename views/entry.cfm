@@ -28,7 +28,7 @@
 					
 					<!--- Post image --->
 					<cfif prc.entry.getFeaturedImageURL() NEQ "">
-						<div class="img-outer"><img class="img-fluid" src="#prc.entry.getFeaturedImageURL()#" alt="#prc.entry.getTitle()#"></div> dfgdfg
+						<div class="img-outer"><img class="img-fluid" src="#prc.entry.getFeaturedImageURL()#" alt="#prc.entry.getTitle()#"></div>
 					</cfif>
 
 					<!--- Title --->

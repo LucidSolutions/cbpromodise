@@ -1,7 +1,7 @@
 {
   "name": "cbpromodise",
   "version": "1.0.0",
-  "description": "Lucid Theme",
+  "description": "Promodise theme for ContentBox 3.x.",
   "main": "Gruntfile.js",
   "private": "true",
   "devDependencies": {
