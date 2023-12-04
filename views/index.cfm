@@ -28,7 +28,7 @@
 					<!--- Are we filtering by category? --->
 					<cfif len( rc.category )>
 						<div class="col-lg-12 col-md-12">
-							<h4 class="mb-3">Category Filtering: '#rc.category#'</h4>
+							<h4 class="mb-3">Category Filtering: '#encodeForHTML( rc.category )#'</h4>
 							<p><a href="#cb.linkBlog()#" class="btn btn-hero btn-circled btn-sm" title="Remove filter and view all entries">Remove Filter</a></p>
 							<br/>
 						</div>
@@ -38,7 +38,7 @@
 					<cfif len( rc.q )>
 						<div class="col-lg-12 col-md-12">
 							<p><a class="btn btn-hero btn-circled btn-sm" href="#cb.linkBlog()#" title="Clear search and view all entries">Clear Search</a></p>
-							<p>Searching by: '#rc.q#'</p>
+							<p>Searching by: '#encodeForHTML( rc.q )#'</p>
 							<br/>
 						</div>
 					</cfif>
